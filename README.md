@@ -101,3 +101,6 @@ Execute the program
 
 # OUTPUT
 ![output](img.png)
+
+# RESULT:
+         Thus the Web page is created to display your Time table.
